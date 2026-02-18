@@ -7,7 +7,7 @@ document.addEventListener('DOMContentLoaded', function () {
     // Load landing video script only when landing view is active
     if (landingView && !landingView.classList.contains('hidden')) {
         var s = document.createElement("script");
-        s.src = "https://scripts.converteai.net/77f7f12d-5e90-456d-b45e-7c7f2aa34ed0/players/698d1254ceb26906d0014ae8/v4/player.js";
+        s.src = "https://scripts.converteai.net/74dce799-bb6a-4b34-9f9e-d2677590fce2/players/6996110fdcfb6904915b6712/v4/player.js";
         s.async = true;
         document.head.appendChild(s);
     }
